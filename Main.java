@@ -15,6 +15,7 @@ public class Main {
         }
         list.addAt("nie", 1);
         printList(list);
+        System.out.println("test gita");
 
     }
 
