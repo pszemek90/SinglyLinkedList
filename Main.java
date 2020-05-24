@@ -1,4 +1,4 @@
-package sda._200523.Lista1kierunkowa;
+package sda._200523.SinglyLinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,8 +15,6 @@ public class Main {
         }
         list.addAt("nie", 1);
         printList(list);
-        System.out.println("test gita");
-
     }
 
     private static void printList(StringList list) {

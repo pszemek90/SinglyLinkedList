@@ -1,4 +1,4 @@
-package sda._200523.Lista1kierunkowa;
+package sda._200523.SinglyLinkedList;
 
 public class StringListElement {
     private String value;
